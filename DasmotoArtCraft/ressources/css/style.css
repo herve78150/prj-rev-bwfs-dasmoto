@@ -1,0 +1,33 @@
+
+h1, h2, h3, p {
+    font-family: Helvetica;
+}
+
+h1{
+    background-image: url(./../img/pattern.jpeg);
+    text-align: center;
+    font-size: 100px;
+    color: Khaki;
+}
+
+.product{
+    color: white;
+    font-size: 32px;
+}
+
+.blue-bold{
+   color: blue;
+   font-weight: bold;
+}
+
+#brush{
+    background-color: rgb(0, 250, 0);
+}
+
+#frame{
+    background-color: LightCoral;
+}
+
+#paint{
+    background-color: rgb(128, 173, 240);
+}
